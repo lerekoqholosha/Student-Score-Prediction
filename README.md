@@ -9,6 +9,10 @@ The Dataset comprises of daily study hours of an student and the score the respe
 
 ### Tool Used
 1.Pandas
+
+
 2. Matplotlib
+
+
 3. statsmodel
 
