@@ -22,4 +22,27 @@ The Dataset comprises of daily study hours of an student and the score the respe
 - [@LerekoQholosha](https://github.com/lerekoqholosha)
 
 
+## Used By
+
+This project is used by the following companies:
+
+- Sparks Foundation
+
+
+## Running Tests
+
+To run tests, run the following command
+
+```bash
+  Download The NooteBook
+```
+
+
+## Demo
+
+[Youtube](https://youtu.be/GUd1BVCUMDw)
+
+
+
+
 
