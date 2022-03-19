@@ -1,18 +1,25 @@
-# Student-Score-Prediction
+
+# Student Score Predictions
 Spark Foundation Internship First Task
 
-### The problem Statement
+## Problem Statement
 .Predict the percentage of an student based on no. of study hours.
 
-### dataset:
+## Dataset
 The Dataset comprises of daily study hours of an student and the score the respective student scored in the exams.
 
-### Tool Used
+## Tools
 1.Pandas
 
+2.Matplotlib
 
-2. Matplotlib
+3.statsmodel
 
 
-3. statsmodel
+
+## Authors
+
+- [@LerekoQholosha](https://github.com/lerekoqholosha)
+
+
 
